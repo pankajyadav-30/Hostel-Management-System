@@ -1,0 +1,15 @@
+Id           StudentName             Room
+--           ----------           ---------
+1             Sudhir                 101
+2             Subh                   102
+3             Ayesha                 104
+
+
+
+# Meaning
+
+    Id → Student ID
+    
+    StudentName → Student Name (single word, no spaces)
+    
+    Room → Assigned Room Number
